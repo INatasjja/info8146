@@ -1,0 +1,9 @@
+{
+	"name": "info8146-assig-1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c0328db-dab5-48aa-990c-310eb70917c7",
+		"tenantId": "4ddd393a-e98a-4404-841f-c4becdd925a5"
+	}
+}
