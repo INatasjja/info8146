@@ -1,0 +1,19 @@
+{
+	"name": "8146wk1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "8980513storage",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "8146-Asn1-SetC-26.xlsx",
+				"container": "8146-wk1"
+			}
+		},
+		"schema": []
+	}
+}
